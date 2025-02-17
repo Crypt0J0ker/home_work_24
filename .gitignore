@@ -1,0 +1,6 @@
+.env
+
+myenv/*
+
+my_ml_notebook.tar
+my_ml_notebook.zip
